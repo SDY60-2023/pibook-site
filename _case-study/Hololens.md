@@ -10,5 +10,5 @@ tags:
   - Microsoft Hololens
 ---
 
-{% include cs-microbit.md %}
+{% include cs-hololens.md %}
 
